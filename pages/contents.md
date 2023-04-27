@@ -1,0 +1,17 @@
+- [[Solar]]
+	- [[Solar/Solar Roof Notes]]
+	- [[Solar/Solar Carport Notes]]
+- [[TV]]
+	- [[TV/Movie]]
+	- [[TV/recommendations]]
+- Health
+	- [[Plantar fasciitis]]
+- Ecovillage VT
+	- [[Visit Fric and Nancy Nov 13, 2022]]
+- [[AI Salon]]
+	- [[AI Salon/Setup]]
+	- [[AI Topics - from Conversations with Scott]]
+	- [[Articles]]
+- Community
+	- [[Boswell]]
+-

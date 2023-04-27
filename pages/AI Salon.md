@@ -1,0 +1,27 @@
+- Upcoming Topics tbd for Salon
+	- where to meet
+	- how often to meet
+	- how long do we meet
+	- what is our first article of discussion
+- ----
+-
+- Participants
+	- ![](https://lh3.googleusercontent.com/contacts/ANvYiodHc202xpBzr-2YNpqJkUJiw5Kg_EpGoV0RUuCG2Bxc6ILysuT-=s48-p)
+	- Scott O'Hara
+	- seohara@gmail.com
+	- ![](https://lh3.googleusercontent.com/contacts/ANvYioc896UpK1gWKEeStpvMz3-DWYehrdDFA3a-rk8qExFLNAjfc54x=s48-p)
+	- Alex Krowitz
+	- alexkrowitz@gmail.com
+	- ![](https://lh3.googleusercontent.com/a-/ACB-R5RyyCT1iYWvMfpl0Gb9p1fhmkNAMzMpBXnnyEjv=s48-p)
+	- Charlie Berg
+	- chb@theworld.com
+	- ![](https://lh3.googleusercontent.com/contacts/ANvYiocs04U89TzNyUkRLPYlB8JAP6e_i8ahC8XIONsacG_YWo8HOTbY=s48-p)
+	- Kay Rhodes
+	- masukomi@masukomi.org
+	- ![](https://lh3.googleusercontent.com/contacts/ANvYiodX6Y8MwzHCpL-xCDOrJA9hjQGJp-Ijm4okn8QomCikkj-cNu9W=s48-p) 
+	  Maybe
+	- Jonathan Young
+	- Jonathan.Young@comcast.net
+	- ![](https://lh3.googleusercontent.com/a/AGNmyxbejZzbxRB0lK__6H8Nk7CgykpytkMWFbPt1XtA0vM=s48-p)
+	- Charles Magid
+	- cmmagid@gmail.com
