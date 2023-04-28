@@ -1,5 +1,6 @@
 - Upcoming Topics tbd for Salon
 	- where to meet
+		- 495 some where coffee shop
 	- how often to meet
 	- how long do we meet
 	- what is our first article of discussion
