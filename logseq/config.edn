@@ -342,7 +342,7 @@
  :publishing/all-pages-public? true
  :feature/enable-journals? false
  ;; :default-home {:page "Contents"}
- :default-home {:page "Contents" :sidebar ["page AI Salon" "page AI Topics - from Conversations with Scott"]}
+ ;; :default-home {:page "Contents" :sidebar ["page AI Salon" "page AI Topics - from Conversations with Scott"]}
  :feature/enable-flashcards? true
 
  ;; specify the format of the filename for journal files
