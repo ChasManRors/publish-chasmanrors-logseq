@@ -4,6 +4,8 @@
 	- how often to meet
 	- how long do we meet
 	- what is our first article of discussion
+		- Scott recommended this as a first article [What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+		-
 - ----
 -
 - Participants
