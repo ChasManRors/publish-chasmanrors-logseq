@@ -342,6 +342,7 @@
  :publishing/all-pages-public? true
  :feature/enable-journals? false
  :default-home {:page "Contents"}
+ 
  :feature/enable-flashcards? true
 
  ;; specify the format of the filename for journal files
